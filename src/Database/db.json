@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Rohit patil",
+      "username": "Hitman",
+      "email": "Rohit@gmail.com",
+      "number": "8602151583",
+      "id": 1
+    },
+    {
+      "name": "timeconnect",
+      "username": "terra2015",
+      "email": "kp@zingalbox.com",
+      "number": "1234",
+      "id": 3
+    },
+    {
+      "name": "Find",
+      "username": "findmewhere",
+      "email": "Fine@gmail.com",
+      "number": "8602151583",
+      "id": 4
+    },
+    {
+      "name": "ROHIT PATIL",
+      "username": "rtsdfv",
+      "email": "rrohitpatil004@gmail.com",
+      "number": "12345678765",
+      "id": 5
+    }
+  ]
+}
